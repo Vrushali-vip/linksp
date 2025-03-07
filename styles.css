@@ -291,34 +291,34 @@ body {
 } */
 /* Email Icon */
 .link-item[href^="mailto:"] .icon-container {
-    background: linear-gradient(135deg, #ffc107, #ff9800); /* Yellow-Orange */
+    background: linear-gradient(135deg, #FF0000, #B22222) !important;
 }
 /* Phone Call Icon */
 .link-item[href*="tel:+919820700078"] .icon-container {
-    background: linear-gradient(135deg, #9400D3, #8A2BE2);
+    background: linear-gradient(135deg, #FF0000, #B22222);
 }
 
 /* Landline Icon */
 .link-item[href*="tel:+9102246027409"] .icon-container {
-    background: linear-gradient(135deg, #FF5733, #C70039);
+    background: #86BE40;
 }
 
 /* LinkedIn Icon */
 .link-item[href*="linkedin"] .icon-container {
-    background: linear-gradient(135deg, #0077B5, #004182);
+    background: linear-gradient(135deg, #FF0000, #B22222);
 }
 
 /* WhatsApp Icon */
 .link-item[href*="wa.me"] .icon-container {
-    background: linear-gradient(135deg, #25D366, #128C7E);
+    background: #86BE40;
 }
 
 .link-item[href*="fortunefive.in"] .icon-container {
-    background: linear-gradient(135deg, #1E90FF, #007AFF); /* Blue */
+    background: #86BE40;
 }
 
 .link-item[href*="brochure"] .icon-container {
-    background: linear-gradient(135deg, #FF0000, #B22222); /* Red Gradient for PDF */
+    background: linear-gradient(135deg, #FF0000, #B22222);
 }
 .link-item .icon {
     font-size: 1.2rem;
