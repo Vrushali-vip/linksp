@@ -291,11 +291,12 @@ body {
 } */
 /* Email Icon */
 .link-item[href^="mailto:"] .icon-container {
-    background: linear-gradient(135deg, #FF0000, #B22222) !important;
+    background: #86BE40 !important;
 }
 /* Phone Call Icon */
 .link-item[href*="tel:+919820700078"] .icon-container {
-    background: linear-gradient(135deg, #FF0000, #B22222);
+    /* background: linear-gradient(135deg, #FF0000, #B22222); */
+    background: #86BE40;
 }
 
 /* Landline Icon */
@@ -305,7 +306,7 @@ body {
 
 /* LinkedIn Icon */
 .link-item[href*="linkedin"] .icon-container {
-    background: linear-gradient(135deg, #FF0000, #B22222);
+    background: #86BE40;
 }
 
 /* WhatsApp Icon */
@@ -318,7 +319,7 @@ body {
 }
 
 .link-item[href*="brochure"] .icon-container {
-    background: linear-gradient(135deg, #FF0000, #B22222);
+    background: #86BE40;
 }
 .link-item .icon {
     font-size: 1.2rem;
