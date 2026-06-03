@@ -318,7 +318,8 @@ body {
     background: #86BE40;
 }
 
-.link-item[href*="brochure"] .icon-container {
+.link-item[href*="brochure" i] .icon-container,
+.link-item[href*=".pdf"] .icon-container {
     background: #86BE40;
 }
 .link-item .icon {
